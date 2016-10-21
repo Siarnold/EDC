@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=D1 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D2 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D3 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D4 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D5 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D6 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D7 Old Footprint=SMC New Footprint=DO-41
+Change Component Footprint: Designator=D8 Old Footprint=SMC New Footprint=DO-41
+Change Component Comment : Designator=D1 Old Comment=Diode New Comment=Diode 1N4007
+Change Component Comment : Designator=D2 Old Comment=Diode New Comment=Diode 1N4007
+Change Component Comment : Designator=D3 Old Comment=Diode New Comment=Diode 1N4007
+Change Component Comment : Designator=D4 Old Comment=Diode New Comment=Diode 1N4007
+Change Component Comment : Designator=D5 Old Comment=Diode New Comment=Diode 1N4007
+Change Component Comment : Designator=D6 Old Comment=Diode New Comment=Diode 1N4007
+Change Component Comment : Designator=D7 Old Comment=Diode New Comment=Diode 1N4007
+Change Component Comment : Designator=D8 Old Comment=Diode New Comment=Diode 1N4007
+Added Room: Name=Sheet1
