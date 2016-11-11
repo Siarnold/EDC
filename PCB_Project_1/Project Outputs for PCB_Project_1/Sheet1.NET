@@ -79,17 +79,25 @@ Diode 1N4007
 
 ]
 [
-P1
-HDR1X2
+P
+header
 PWM
 
 
 
 ]
 [
+P1
+HDR1X2
+Header 2
+
+
+
+]
+[
 P2
-HDR1X4
-IN
+HDR1X2
+Header 2
 
 
 
@@ -103,14 +111,6 @@ HDR1X2
 
 ]
 [
-P4
-HDR1X4
-OUT
-
-
-
-]
-[
 P5
 HDR1X2
 Header 2
@@ -119,9 +119,25 @@ Header 2
 
 ]
 [
+P6
+HDR1X2
+Header 2
+
+
+
+]
+[
+P7
+HDR1X2
+Header 2
+
+
+
+]
+[
 S
-DPDT-6
-SW-DPDT
+SPST-2
+SW-PB
 
 
 
@@ -150,7 +166,6 @@ D2-2
 D3-2
 D4-2
 S-2
-S-5
 U1-4
 U-1
 )
@@ -165,39 +180,39 @@ U-2
 NetD1_1
 D1-1
 D5-2
-P4-1
+P6-1
 U1-2
 )
 (
 NetD2_1
 D2-1
 D6-2
-P4-2
+P6-2
 U1-3
 )
 (
 NetD3_1
 D3-1
 D7-2
-P4-3
+P7-1
 U1-13
 )
 (
 NetD4_1
 D4-1
 D8-2
-P4-4
+P7-2
 U1-14
 )
 (
 NetP1_1
 P1-1
-U1-11
+U1-7
 )
 (
 NetP1_2
 P1-2
-U1-6
+U1-5
 )
 (
 NetP2_1
@@ -210,20 +225,19 @@ P2-2
 U1-10
 )
 (
-NetP2_3
-P2-3
-U1-7
-)
-(
-NetP2_4
-P2-4
-U1-5
-)
-(
 NetP3_2
 P3-2
 S-1
-S-4
+)
+(
+NetP_1
+P-1
+U1-11
+)
+(
+NetP_2
+P-2
+U1-6
 )
 (
 GND
@@ -235,8 +249,6 @@ D7-1
 D8-1
 P3-1
 P5-2
-U1-1
 U1-8
-U1-15
 U-3
 )

@@ -1,0 +1,4 @@
+Added Component: Designator=P(header)
+Added Pin To Net: NetName=NetP_1 Pin=P-1
+Added Member To Class: ClassName=Sheet1 Member=Component P PWM
+Added Room: Name=Sheet1

@@ -1,0 +1,9 @@
+Added Component: Designator=P2(header)
+Added Component: Designator=P(header)
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP_1 Pin=P-1
+Added Pin To Net: NetName=NetP_2 Pin=P-2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P Header 2
+Added Room: Name=Sheet1
